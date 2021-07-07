@@ -1,0 +1,12 @@
+package lfc;
+
+import java.util.Scanner;
+
+public class Mcfc {
+	
+	public static void main(String[] args) {
+		int x = 5;
+		boolean IsPastaNice = true;
+	}
+
+}

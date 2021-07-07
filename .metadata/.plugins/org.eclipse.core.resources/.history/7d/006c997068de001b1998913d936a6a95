@@ -1,0 +1,11 @@
+package lfc;
+
+import java.util.Scanner;
+
+public class Mcfc {
+	
+	public static void main(String[] args) {
+		int y = 25;
+		y++;
+		System.out.println(y);
+	}}

@@ -1,0 +1,9 @@
+package com.qa.person;
+
+public class Cat {
+	public String name;
+	public String colour;
+	public int age;
+	public String speak;
+
+}

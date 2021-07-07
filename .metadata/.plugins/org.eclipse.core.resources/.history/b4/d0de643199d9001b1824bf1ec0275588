@@ -1,0 +1,11 @@
+package com.qa.Calculatorexample;
+
+
+public class CalculatorExample {
+	public static void main(String[] args) {
+		int num1 =  Calculator.add(6, 2);
+		System.out.println(num1);
+System.out.println(Calculator.add(10, 10));
+	}
+
+}

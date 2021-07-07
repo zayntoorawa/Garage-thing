@@ -1,0 +1,14 @@
+package com.qa.Fizzbuzz;
+
+public class Fizzbuzz {
+
+	public static void name(String[] args) {
+		int i = 27;
+		if (i % 3 == 0) {
+			System.out.println("Fizz");
+		}
+			
+		
+	}
+	
+}

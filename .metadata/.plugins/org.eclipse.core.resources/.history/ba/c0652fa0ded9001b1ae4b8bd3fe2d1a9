@@ -1,0 +1,13 @@
+package com.qa.Fizzbuzz;
+
+public class Fizzbuzz {
+
+	public static void name(String[] args) {
+		if (10>1) {
+			System.out.println("hello");
+		}
+			
+		
+	}
+	
+}

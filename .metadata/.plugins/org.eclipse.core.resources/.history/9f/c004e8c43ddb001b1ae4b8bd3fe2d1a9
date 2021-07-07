@@ -1,0 +1,15 @@
+package userProject;
+
+public class ClassExample {
+	
+	public static void main(String[] args) {
+		user user1 = new user();
+		user1.id = 1;
+		user1.name = "Zayn";
+		user1.email = "zayntoorawa1@live.co.uk";
+		user1.age = "22";
+s		
+		
+	}
+
+}

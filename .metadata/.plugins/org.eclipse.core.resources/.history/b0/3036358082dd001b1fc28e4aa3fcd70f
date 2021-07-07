@@ -1,0 +1,8 @@
+package com.qa.person;
+
+public class Dog {
+	public String name;
+	public String colour;
+	public int age;
+	public String speak;
+}

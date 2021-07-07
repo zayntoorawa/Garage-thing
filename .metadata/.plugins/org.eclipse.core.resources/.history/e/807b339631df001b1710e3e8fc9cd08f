@@ -1,0 +1,14 @@
+package lfc;
+
+import java.util.Scanner;
+
+public class Mcfc {
+	
+	public static void main(String[] args) {
+	 
+		String name = "Zayn is the GOAT";
+		System.out.println(name.charAt(13));
+		String fullName = name + "  and supports lfc";
+		System.out.println(fullName);
+	 System.out.println(fullName.contains("lhhhh"));
+	}}

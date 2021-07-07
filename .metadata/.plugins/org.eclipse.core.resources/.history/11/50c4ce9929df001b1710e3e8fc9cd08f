@@ -1,0 +1,13 @@
+package lfc;
+
+import java.util.Scanner;
+
+public class Mcfc {
+	
+	public static void main(String[] args) {
+	  String name = "Zayn";
+	 
+		
+	  System.out.println(String.format("Hello",name));
+	
+	}}

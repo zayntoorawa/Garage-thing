@@ -1,0 +1,10 @@
+package lfc;
+
+import java.util.Scanner;
+
+public class Mcfc {
+	
+	public static void main(String[] args) {
+	  String x = "Hello from the other sideeee";
+	  System.out.println(x.length());
+	}}
